@@ -120,11 +120,3 @@ When pigs are warned by wolves, they realize their mistakes and apologize to wol
 - C#
 - GitHub
 
-## 👩🏻‍💻 My Role
-
-- Scene Management
-- File Management
-- CCTV Mini Game
-- Oculus VR Link & Interaction
-- Planning
-- Version Crash Management
