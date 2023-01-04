@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=wtTEJe9Rous
 
 
 ## 📂 Build File  
-      Download it through the link below and play it directly on Oculus2.
+      Download it through the link below and play it directly on Oculus Quset 2.
 https://drive.google.com/file/d/1vmua6EI0KFX6j_dbGkkiE_nD3i8TJMAA/view?usp=sharing  
    
    </br>  
@@ -128,7 +128,7 @@ When pigs are warned by wolves, they realize their mistakes and apologize to wol
 ## 🛠️ Skills & Tools
 
 - Unity
-- Oculus 2 VR
+- Oculus Quest 2 VR
 - C#
 - GitHub
 
