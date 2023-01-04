@@ -98,8 +98,20 @@ When pigs are warned by wolves, they realize their mistakes and apologize to wol
 - **Press the button to warn the pigs**
     
     If you press the button at the exact time when pigs cause an accident while observing CCTV, the pigs in CCTV expand and play an embarrassing animation. This can alert the pigs. The buttons are actually designed to go in when pressed by hand, and the controller has a weak vibration to give the player the feeling of pressing the button.
-      
-        
+         
+  </br>    
+          
+
+ 
+> `VR Controller`
+> 
+- Primary Thumpstic (joystick) : Move front and back to both sides
+- Secondary Thumpstic (joystick) :  a 90-degree turn
+- Secondary Hand Trigger : Close UI window, mini-game interaction
+
+<img src="https://user-images.githubusercontent.com/79504024/210522489-871d0e92-ae0c-45bc-844e-8d1df1fa4d91.png" width="600" height="300"/>
+
+
   </br>    
           
 
