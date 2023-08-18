@@ -1,5 +1,5 @@
 # 🍕 Wolf-s-Pizza-Shop  
-#### 🐺  **Experiential VR content book** that directly becomes the main character (wolf) in the fairy tale and proceeds with the story.
+#### 🐺  **Experiential VR content book** that directly becomes the main character (wolf) in the fairy tale and proceeds with the story. 
    
    </br>  
     
