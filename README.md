@@ -5,7 +5,7 @@
     
 
 ## 🎬 Trailer Video 
-https://www.youtube.com/watch?v=wtTEJe9Rous
+[https://www.youtube.com/watch?v=wtTEJe9Rous](https://www.youtube.com/watch?v=JlGtg0z9tiI)
 
 
 ## 📂 Build File  
